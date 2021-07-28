@@ -21,7 +21,7 @@ option {
 
 body {
     width:100%; margin:0; background-color: #36393F;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 #headerBlank {
