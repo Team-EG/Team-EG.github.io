@@ -1,0 +1,57 @@
+.bigItemDiv {
+    width: 80vw; 
+    height: 12vw;
+    margin-top: 6vh;
+    margin-bottom: 6vh;
+    float: none;
+}
+
+.itemDiv {
+    width: 12vw; height: 12vw; background-color: skyblue; border-radius: 50%; margin: 0;
+    float: left;
+}
+
+.itemNameText {
+    font-size: 1.5rem;
+}
+
+.itemInfoDiv {
+    margin-left: 2vw;
+    float: left;
+}
+
+.itemProfileDiv {
+    width: 100%; height: 100%; margin-top: 0; margin-left: 0;
+}
+
+.itemProfileImage {
+    width: 100%; height: 100%; border-radius: 50%;
+}
+
+.itemRole {
+    margin-top: 0;
+    float: none;
+    font-weight: bold;
+    margin-bottom: 1vh;
+}
+
+.itemDescription {
+    margin-top: 0;
+    float: none;
+    margin-bottom: 0;
+}
+
+.outDiv {
+    margin-top: 1.5vh;
+}
+
+.outA {
+    font-weight: bold;
+    margin-right: 0.75vw;
+}
+
+.outLogo {
+    width: 1.5vw;
+    height: 1.5vw;
+    vertical-align: middle;
+}
