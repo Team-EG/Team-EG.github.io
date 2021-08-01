@@ -3,10 +3,6 @@
     color: white;
 }
 
-.smallTitle {
-    font-size: 1.8rem;
-}
-
 .verticalList {
     float: left;
 }
@@ -21,15 +17,14 @@ option {
 
 body {
     width:100%; margin:0; background-color: #36393F;
-    overflow-x: hidden;
 }
 
 #headerBlank {
-    width:100%; height:5vh; background-color: #202225;
+    width:100%; height:2.5vh; background-color: #202225;
 }
 
 #menu {
-    width:80vw; height:10vh; padding-left:10%; padding-right: 10%; background-color: #202225;
+    width:80vw; height:7.5vh; padding-left:10%; padding-right: 10%; background-color: #202225;
 }
 
 #main {
@@ -42,8 +37,12 @@ a {
     color: white;
 }
 
-.smallTitle {
+.middleTitle {
     font-size: 1.8rem;
+}
+
+.smallTitle {
+    font-size: 1.5rem;
     margin-bottom: 6vh;
 }
 
