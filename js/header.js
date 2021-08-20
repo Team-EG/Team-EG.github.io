@@ -4,7 +4,7 @@ const code =
         <div style="height: 100%;float: left; align-items: center;" class="flex">
             <p style="float:left; font-size: 1.4rem; margin-right: 2vw; font-weight: bold;" class="inMenu"><a href="mainPage.html">Team EG</a></h2>
             <ul class="verticalList" style="list-style-type:none; vertical-align: middle; margin: 0; padding-left:0;">
-                <li class="inMenu verticalLItem headerMenu"><a href="aboutTeamV2.html">팀 소개</a></li>
+                <li class="inMenu verticalLItem headerMenu"><a href="members.html">팀 소개</a></li>
                 <li class="inMenu verticalLItem headerMenu"><a href="projects.html">프로젝트</a></li>
                 <li class="inMenu verticalLItem headerMenu"><a href="https://discord.gg/b5xUdJwSyX">고객지원</a></li>
                 <li class="inMenu verticalLItem headerMenu"><a href="hiring.html">채용</a></li>

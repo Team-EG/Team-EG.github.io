@@ -1,5 +1,48 @@
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans/OpenSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans/OpenSans-SemiBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src: url('../fonts/NotoSansKR/NotoSansKR-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansKR';
+    src: url('../fonts/NotoSansKR/NotoSansKR-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 * {
-    font-family: 'NanumSquare', 'NanumGothic', '맑은 고딕', 'Arial';
+    font-family: 'Roboto', 'NanumGothic', '맑은 고딕', 'Arial';
     color: white;
 }
 
@@ -11,6 +54,10 @@
     float: left;
     margin-left: 1vw;
     margin-right: 2vw;
+}
+
+.noMargin {
+    margin: 0;
 }
 
 .flex {
@@ -41,6 +88,10 @@ body {
 a {
     text-decoration: none;
     color: white;
+}
+
+.title, .middleTitle, .smallTitle, .ftNanumSquare {
+    font-family: 'Roboto', 'NanumSquare', '맑은 고딕', 'Arial';
 }
 
 .middleTitle {
