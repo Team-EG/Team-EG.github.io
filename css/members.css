@@ -13,7 +13,7 @@
     grid-auto-rows: auto;
     grid-template-columns: 1fr 2.5fr;
     grid-row-gap: 1rem;
-    width: 27rem; height: 17rem; background-color: skyblue; margin: 0;
+    width: 27rem; height: 17rem; background-color: #82c59c; margin: 0;
     padding: 1rem;
     border-radius: 1rem;
     float: left;
